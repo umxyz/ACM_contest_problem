@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+int a, b;
+<<<<<<< branch1
+cin >> a >> b;
+=======
+scanf("%d%d", &a, &b);
+>>>>>>> branch2
+if (a < 0 || b < 0) return 1;
+<<<<<<< branch1
+cout << a + b << endl;
+=======
+printf("%d\n", a + b);a
+>>>>>>> branch2
+}

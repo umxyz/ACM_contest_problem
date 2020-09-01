@@ -1,0 +1,9 @@
+<<<<<<< branch1
+int main() {
+a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bb";
+}
+=======
+int main() {
+a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bbb",a="bb";
+}
+>>>>>>> branch2

@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+int a, b;
+#ifdef branch1
+cin >> a >> b;
+if (a < 0 || b < 0) return 1;
+cout << a + b << endl;
+#else
+scanf("%d%d", &a, &b);
+if (a < 0 || b < 0) return 1;
+printf("%d\n", a + b);a
+#endif
+}
